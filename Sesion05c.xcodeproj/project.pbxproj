@@ -12,6 +12,7 @@
 		EB1321102D087E16002B6DB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB13210F2D087E16002B6DB9 /* Assets.xcassets */; };
 		EB1321132D087E16002B6DB9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB1321122D087E16002B6DB9 /* Preview Assets.xcassets */; };
 		EB1321182D087E16002B6DB9 /* Sesion05c.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB1321162D087E16002B6DB9 /* Sesion05c.xcdatamodeld */; };
+		EB7CE1D72D088555003574D8 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB7CE1D62D088555003574D8 /* Persistence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		EB13210F2D087E16002B6DB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB1321122D087E16002B6DB9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EB1321172D087E16002B6DB9 /* Sesion05c.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Sesion05c.xcdatamodel; sourceTree = "<group>"; };
+		EB7CE1D62D088555003574D8 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				EB13210F2D087E16002B6DB9 /* Assets.xcassets */,
 				EB1321162D087E16002B6DB9 /* Sesion05c.xcdatamodeld */,
 				EB1321112D087E16002B6DB9 /* Preview Content */,
+				EB7CE1D62D088555003574D8 /* Persistence.swift */,
 			);
 			path = Sesion05c;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB13210E2D087E13002B6DB9 /* ContentView.swift in Sources */,
+				EB7CE1D72D088555003574D8 /* Persistence.swift in Sources */,
 				EB13210C2D087E13002B6DB9 /* Sesion05cApp.swift in Sources */,
 				EB1321182D087E16002B6DB9 /* Sesion05c.xcdatamodeld in Sources */,
 			);
