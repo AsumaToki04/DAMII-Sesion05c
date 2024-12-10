@@ -11,7 +11,6 @@
 		EB13210E2D087E13002B6DB9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB13210D2D087E13002B6DB9 /* ContentView.swift */; };
 		EB1321102D087E16002B6DB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB13210F2D087E16002B6DB9 /* Assets.xcassets */; };
 		EB1321132D087E16002B6DB9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB1321122D087E16002B6DB9 /* Preview Assets.xcassets */; };
-		EB1321152D087E16002B6DB9 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1321142D087E16002B6DB9 /* Persistence.swift */; };
 		EB1321182D087E16002B6DB9 /* Sesion05c.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB1321162D087E16002B6DB9 /* Sesion05c.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
@@ -21,7 +20,6 @@
 		EB13210D2D087E13002B6DB9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EB13210F2D087E16002B6DB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB1321122D087E16002B6DB9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		EB1321142D087E16002B6DB9 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		EB1321172D087E16002B6DB9 /* Sesion05c.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Sesion05c.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,7 +56,6 @@
 				EB13210B2D087E13002B6DB9 /* Sesion05cApp.swift */,
 				EB13210D2D087E13002B6DB9 /* ContentView.swift */,
 				EB13210F2D087E16002B6DB9 /* Assets.xcassets */,
-				EB1321142D087E16002B6DB9 /* Persistence.swift */,
 				EB1321162D087E16002B6DB9 /* Sesion05c.xcdatamodeld */,
 				EB1321112D087E16002B6DB9 /* Preview Content */,
 			);
@@ -143,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB1321152D087E16002B6DB9 /* Persistence.swift in Sources */,
 				EB13210E2D087E13002B6DB9 /* ContentView.swift in Sources */,
 				EB13210C2D087E13002B6DB9 /* Sesion05cApp.swift in Sources */,
 				EB1321182D087E16002B6DB9 /* Sesion05c.xcdatamodeld in Sources */,
